@@ -1,0 +1,30 @@
+# Dependencies
+# ===============================
+node_modules
+
+
+# Builds
+# ===============================
+dist
+package-lock.json
+
+
+# Tests
+# ===============================
+coverage
+
+
+# Environments
+# ===============================
+.env
+.env.dev
+.env.staging
+.env.prod
+.env.test
+test.pdf
+test.pdf
+
+
+# Logs
+# ===============================
+*.log
